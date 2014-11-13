@@ -16,7 +16,7 @@ angular-c3    [![Build Status](https://travis-ci.org/maseh87/c3-chart.svg?branch
 
 ## Using
 + angular-c3 comes pre-packaged with c3 and d3. No need to download those libraries.
-+ Adding a C3 chart is as simple as adding the c3-chart directive to your HTML. Add an id to tell the chart which element to bindto. Also add the config attribute to point to the data inside your controller.
++ Adding a C3 chart is as simple as adding the c3-chart directive to your HTML. Add an id to tell the chart which element to bind to. Also add the config attribute to point to the data inside your controller.
 
 ```html
 <c3-chart id="chart" config="config"></c3-chart>
